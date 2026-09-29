@@ -1,1 +1,1 @@
-# odin-recipes
+This is the project about Recipes and it is solely created on html to apply the previous knowledge that is achieved through odin projects.After completing this project I am able to create the basic website based on html solely.
